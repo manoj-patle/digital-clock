@@ -1,5 +1,5 @@
-# digital-clock
-Digital Clock Using JS
+# Digital Clock
+Digital Clock Using HTML,JS and CSS
 
 ![image](https://github.com/manoj-patle/digital-clock/assets/126101159/43b0aa35-de92-4299-be4a-3873707d0bb2)
 
@@ -28,7 +28,7 @@ This Digital Clock project is a straightforward web application that displays th
 
 ## Demo
 
-You can see a live demo of the Digital Clock here: [Demo](https://digital-clock-by-mp.netlify.app/)
+You can see a live demo of the Digital Clock here: [Digital Clock](https://digital-clock-by-mp.netlify.app/)
 
 ![www_screencapture_com_2023-9-24_14_44](https://github.com/manoj-patle/digital-clock/assets/126101159/acae8149-46a5-4ea4-afef-276d05d7eca0)
 
@@ -77,11 +77,9 @@ Here's a simple example of how to embed the clock in your HTML:
 
 ## Contributing
 
-If you would like to contribute to this project, feel free to open issues, fork the repository, and submit pull requests. We welcome contributions that improve the project's functionality, performance, or usability.
+If you would like to contribute to this project, feel free to open issues, fork the repository, and submit pull requests. any contributions that improve the project's functionality, performance, or usability are welcome.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Replace the placeholders with your actual demo link and any additional details about your project. Additionally, make sure to provide a valid URL for your demo if available, and update the license information if needed.
