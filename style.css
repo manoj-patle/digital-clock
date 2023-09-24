@@ -3,8 +3,8 @@ body {
   background: #000;
   height: 100vh;
   display: flex;
-  /* justify-content: center; */
-  margin-left: 24%;
+  justify-content: center;
+  /* margin-left: 24%; */
   align-items: center;
 }
 #clock {
@@ -13,4 +13,26 @@ body {
   font-size: 8rem;
   letter-spacing: 1rem;
   font-weight: bold;
+  transition: font-size 0.5s ease;
+}
+@media (max-width: 1080px) {
+  #clock {
+    font-size: 6rem; /* Adjust font-size for screens below 1080px */
+  }
+}
+@media (max-width: 768px) {
+
+  #clock {
+    font-size: 4rem;
+  }
+}
+@media (max-width: 520px) {
+  #clock {
+    font-size: 3rem; /* Adjust font-size for screens below 520px */
+  }
+}
+@media (max-width: 350px) {
+  #clock {
+    font-size: 2rem; /* Adjust font-size for screens below 520px */
+  }
 }
