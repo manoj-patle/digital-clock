@@ -1,5 +1,4 @@
 # Digital Clock
-Digital Clock Using HTML,JS and CSS
 
 ![image](https://github.com/manoj-patle/digital-clock/assets/126101159/43b0aa35-de92-4299-be4a-3873707d0bb2)
 
