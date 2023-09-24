@@ -1,10 +1,8 @@
 # digital-clock
 Digital Clock Using JS
 
-```markdown
-# Digital Clock
+![image](https://github.com/manoj-patle/digital-clock/assets/126101159/43b0aa35-de92-4299-be4a-3873707d0bb2)
 
-![Digital Clock Screenshot](screenshot.png)
 
 A simple and elegant digital clock built using HTML, CSS, and JavaScript.
 
@@ -30,9 +28,10 @@ This Digital Clock project is a straightforward web application that displays th
 
 ## Demo
 
-You can see a live demo of the Digital Clock here: [Demo](https://your-demo-link.com)
+You can see a live demo of the Digital Clock here: [Demo](https://digital-clock-by-mp.netlify.app/)
 
-![Digital Clock Demo](demo.gif)
+![www_screencapture_com_2023-9-24_14_44](https://github.com/manoj-patle/digital-clock/assets/126101159/acae8149-46a5-4ea4-afef-276d05d7eca0)
+
 
 ## Installation
 
@@ -61,19 +60,19 @@ Here's a simple example of how to embed the clock in your HTML:
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Digital Clock</title>
-</head>
-<body>
-    <div class="clock-container">
-        <div class="digital-clock" id="digital-clock"></div>
-    </div>
-    <script src="script.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" class="css" />
+  </head>
+  <body>
+    <p id="clock">14:30:40</p>
+  </body>
+  <script src="./index.js"></script>
 </html>
+
 ```
 
 ## Contributing
