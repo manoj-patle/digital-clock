@@ -67,7 +67,7 @@ Here's a simple example of how to embed the clock in your HTML:
     <link rel="stylesheet" href="./style.css" class="css" />
   </head>
   <body>
-    <p id="clock">14:30:40</p>
+    <p id="clock"></p>
   </body>
   <script src="./index.js"></script>
 </html>
